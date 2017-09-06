@@ -10,3 +10,5 @@ Como os diagramas ajudam a visaulizar a estrutura de branches?
 
 Qual é o resultado da mesclagem de dois branches? Por que o representamos no digrama dessa forma?
 
+Quais são os prós e contras da mesclagem automática do Git v. sempre fazer mesclagens manualmente?
+
