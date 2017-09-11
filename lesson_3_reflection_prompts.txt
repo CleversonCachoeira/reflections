@@ -29,4 +29,4 @@ and what would be harder?
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
-    Fill in your answer here
+    Quando é uma alteração que não seja a principal, ou seja alternativa, assim é fácil voltar atrás nas atualizações se não for dado o merge com o master.
